@@ -18,9 +18,9 @@
 - Αγγλικά (_Επίπεδο Lower_)
 
 
-### ΓΛΩΣΣΕΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ
+### ΓΛΩΣΣΕΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ:octocat:
 ```markdown
-1) Java :octocat:
+1) Java
 2) Python
 3) Javascript
 4) HTML5 & CSS

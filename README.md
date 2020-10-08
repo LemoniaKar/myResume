@@ -44,7 +44,7 @@ ________________________________________________________________________________
 ![Linux](/images/linux.png)
 
 
-Ταυτόχρονα και στον ελεύθερο χρόνο μου, παρακολουθώ διάφορα tutorial του [Udemy](https://www.udemy.com), που αφορά το **Arduino** και το **Android Development**.
+Ταυτόχρονα και στον ελεύθερο χρόνο μου, παρακολουθώ διάφορα tutorial του [Udemy](https://www.udemy.com), που αφορούν στο **Arduino** και στο **Android Development**.
 
 
 
